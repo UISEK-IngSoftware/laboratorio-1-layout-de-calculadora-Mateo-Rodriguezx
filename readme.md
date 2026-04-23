@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Mateo Rodriguez Josue Medina
+- **Carrera**: Ingenieria en Software
+- **Fecha de entrega**: 23-04-2026
 
 ---
 
